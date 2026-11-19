@@ -30,12 +30,6 @@ Desenvolvedor Backend Java Júnior, graduado em Análise e Desenvolvimento de Si
 
 ---
 
-## 📈 GitHub Stats
-
-<!-- Adicionar cards de estatísticas após definir o serviço utilizado -->
-
----
-
 ## 🚀 Featured Projects
 
 ### 🔧 [TorqueDesk](https://github.com/AndersonMesq/TorqueDesk)
